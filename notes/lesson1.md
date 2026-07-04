@@ -24,7 +24,7 @@ npm install antd
 Import CSS trong `main.tsx`:
 
 ```ts
-import "antd/dist/reset.css";
+import "antd/dist/reset.css"; 
 ```
 
 ---
